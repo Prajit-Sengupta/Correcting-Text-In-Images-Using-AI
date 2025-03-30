@@ -2,6 +2,12 @@
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Prajit-Sengupta/Correcting-Text-In-Images-Using-AI)
 
+**Publication**  
+Our paper related to this project:   
+[https://www.techrxiv.org/doi/full/10.36227/techrxiv.174319638.82772972/v1](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174319638.82772972/v1)  
+
+Let me know if you need any modifications!
+
 ## Overview
 This project focuses on AI-based text correction in images. It utilizes OCR (TrOCR) for text extraction, BLIP-2 for correction, and Stable Diffusion for inpainting. The evaluation involves mathematical optimization techniques and metrics such as CLIP, GIQA, FID, and T-IQA for comparative analysis.
 
